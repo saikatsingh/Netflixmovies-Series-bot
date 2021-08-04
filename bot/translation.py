@@ -45,26 +45,26 @@ currently working for @{}
             
             👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://telegram.dog/AnnihilusOP">©️ 只ᴀɴ͜͜͡͡ɴɪʜɪʟᴜṠのṖ</a></b>
 """
     
     ABOUT_TEXT = """
 📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
-\n○ ᴍʏ ɴᴀᴍᴇ : {}
+\n👑 ᴍʏ ɴᴀᴍᴇ : {}
 
-○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
+👑 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
-○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ 
+👑 ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ 
 
-○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
+👑 sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
 
-○ ᴠᴇʀsɪᴏɴ : 1.0.0
+👑 ᴠᴇʀsɪᴏɴ : 1.0.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ 🥰](https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone)
+👑 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [Lord Hiten](https://telegram.dog/hiten_op)
 
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_bots](https://t.me/Ts_bots)
+👑 ᴄʜᴀɴɴᴇʟ : [Main Channel🤒](https://telegram.dog/Netflixmovies_Series)
 
 **ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
 
-**[©ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛ](https://t.me/ts_bots)**
+**[© 只ᴀɴ͜͜͡͡ɴɪʜɪʟᴜṠのṖ](https://telegram.dog/AnnihilusOP)**
 """

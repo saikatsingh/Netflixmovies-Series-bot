@@ -24,7 +24,7 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + "</code>")
+        caption = file_caption if file_caption != ("@Netflixmovies_Series") else ("<code>" + file_name + "</code>")
         
         if file_type == "document":
         
@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/Ts_bots"
+                                    '🌟 Developers', url="https://telegram.dog/Netflixmovies_Series"
                                 )
                         ]
                     ]
@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/Ts_bots"
+                                    '🌟 Developers', url="https://telegram.dog/Netflixmovies_Series"
                                 )
                         ]
                     ]
@@ -77,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/Ts_bots"
+                                    '🌟 Developers', url="https://telegram.dog/Netflixmovies_Series"
                                 )
                         ]
                     ]
@@ -90,7 +90,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('📫 SUPPORT', url='https://t.me/Ts_bots'),
+        InlineKeyboardButton('📫 Movie Group', url='https://t.me/request_moviesorseries'),
         InlineKeyboardButton('📕 ABOUT', callback_data="about")
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),

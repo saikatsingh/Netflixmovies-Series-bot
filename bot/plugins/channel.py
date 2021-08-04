@@ -295,19 +295,19 @@ async def new_files(bot: Bot, update):
             file_type = "video" 
             file_id = update.video.file_id
             file_name = update.video.file_name[0:-4]
-            file_caption  = update.caption if update.caption else ""
+            file_caption  = update.caption if update.caption else "@Netflixmovies_Series"
 
         elif update.audio:
             file_type = "audio"
             file_id = update.audio.file_id
             file_name = update.audio.file_name[0:-4]
-            file_caption  = update.caption if update.caption else ""
+            file_caption  = update.caption if update.caption else "@Netflixmovies_Series"
 
         elif update.document:
             file_type = "document"
             file_id = update.document.file_id
             file_name = update.document.file_name[0:-4]
-            file_caption  = update.caption if update.caption else ""
+            file_caption  = update.caption if update.caption else "@Netflixmovies_Series"
         
         for i in ["_", "|", "-", "."]: # Work Around
             try:

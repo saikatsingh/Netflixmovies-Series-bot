@@ -36,29 +36,29 @@ async def settings(bot, update):
         [
             InlineKeyboardButton
                 (
-                    "🎬 CHANNELS", callback_data=f"channel_list({chat_id})"
+                    "🥳 CHANNELS", callback_data=f"channel_list({chat_id})"
                 ), 
             
             InlineKeyboardButton
                 (
-                    "🔍 FILTER TYPES", callback_data=f"types({chat_id})"
+                    "🤨 FILTER TYPES", callback_data=f"types({chat_id})"
                 )
         ],
         [
             InlineKeyboardButton
                 (
-                    "🛠️ CONFIG", callback_data=f"config({chat_id})"
+                    "🏗 CONFIG", callback_data=f"config({chat_id})"
                 )
         ], 
         [
             InlineKeyboardButton
                 (
-                    "📋 STATUS", callback_data=f"status({chat_id})"
+                    "🌡 STATUS", callback_data=f"status({chat_id})"
                 ),
             
             InlineKeyboardButton
                 (
-                    "⏱️ BOT STATUS", callback_data=f"about({chat_id})"
+                    "📈 BOT STATUS", callback_data=f"about({chat_id})"
                 )
         ],
         [

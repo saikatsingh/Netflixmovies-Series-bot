@@ -66,5 +66,5 @@ currently working for @{}
 
 **ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
 
-**[© 只ᴀɴ͜͜͡͡ɴɪʜɪʟᴜṠのṖ](https://telegram.dog/AnnihilusOP)**
+**[© 只ᴀɴ͜͜͡͡ɴɪʜɪʟᴜṠのṖ](https://telegram.dog/hiten_op)**
 """

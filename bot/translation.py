@@ -17,23 +17,7 @@ currently working for @{}
 <u>💡 𝐇𝐞𝐥𝐩</u>
 
 <i>
-📌 Add Me To Any Group And Make Me Admin
-📌 Add Me To Your Desired Channel
-</i>
-
-<b>🔰 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (Works Only In Groups) :</b>
-
-    👉 <code>/add chat_id</code>
-                OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
-     <code>/add @Username</code>
-     
-    👉 <code>/del chat_id</code>
-                OR                  - To disconnect A Group With A Channel
-     <code>/del @Username</code>
-     
-    👉 <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
-    
-    👉 <code>/settings</code> -  This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly
+Nothing to show😃
 
 🔰 𝐒𝐄𝐓𝐓𝐈𝐍𝐆 𝐏𝐀𝐍𝐄𝐋
 
@@ -66,5 +50,5 @@ currently working for @{}
 
 **ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
 
-**[© 只ᴀɴ͜͜͡͡ɴɪʜɪʟᴜṠのṖ](https://telegram.dog/AnnihilusOP)**
+**[© 只ᴀɴ͜͜͡͡ɴɪʜɪʟᴜṠのṖ](https://telegram.dog/hiten_OP)**
 """
